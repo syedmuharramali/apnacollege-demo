@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first github repository
 <br>
-Author Syed muharram Ali
+Author --Syed muharram Ali
